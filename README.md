@@ -22,4 +22,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2869-minimum-operations-to-collect-elements](https://github.com/shifnna/Leetcode-Solutions/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shifnna/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shifnna/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shifnna/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shifnna/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
